@@ -1,57 +1,86 @@
-# 🔥 GhostCore Reactor Suite
+# 🚀 GhostCore Reactor Suite
 
-Welcome to the **GhostCore Reactor Suite** — an open-source platform for simulating and visualizing advanced energy systems based on thermophotovoltaic (TPV) reactors, molten lead cooling loops, and propulsion-defense hybrid technologies.
+A future-forward, physics-backed research project fusing thermophotovoltaics (TPV), molten lead systems, photon propulsion, and weaponized electromagnetic shielding.
 
-Reverse engineered from **classified silence**, designed for red team thought experiments, extraterrestrial propulsion systems, and energy autonomy research.
-
----
-
-## 📦 What's Inside
-
-### 🔧 Engine Modules
-- `photon_drive_model.py` — Simulates pure photon-based propulsion
-- `TPV_simulator.py` — Models thermophotovoltaic output efficiency from the reactor core
-- `molten_lead_loop_model.py` — Simulates molten lead heat transfer, EMP energy storage, MHD thrust, and recoil propulsion
-
-### 📁 Docs
-- `GhostCore_TPV_Terrestrial_Design.pdf` — Describes Earth-based deployment for power, water, and agriculture
-- `GhostCore_OnePage_Execution_Pitch.pdf` — Executive pitch overview
-- `GhostCore_Molten_Lead_Weaponized_Drive.pdf` — Breakdown of molten lead as propulsion and defense subsystem
-
-### 🖼 Media
-- System diagrams and infographics for presentation
-- Meme culture integrations to keep the vibe high while changing the world
+This suite is **reverse engineered from classified silence** and released for public research, red team simulation, and high-efficiency off-world infrastructure development.
 
 ---
 
-## 🧪 Simulation Capabilities
+## 📁 File Structure
 
-- Track thermal-to-electric conversion
-- Compute thrust vectors from EMP and MHD discharge
-- Analyze delta over time using the `GhostStarReactor_Sim.ps1` PowerShell simulation
+### 🔧 `/engine/`  
+Simulators and core logic:
+- `molten_lead_loop_model.py`: Models lead-loop heat transport, EMP energy storage, MHD thrust, and recoil propulsion
+- `photon_drive_model.py`: Calculates photon-based acceleration and cruise velocity
+- `TPV_simulator.py`: Models TPV array efficiency and radiation capture
+- `GhostStarReactor_Sim.ps1`: Full reactor simulation with scram logic and dual-loop thermal behavior
+
+### 📄 `/docs/`  
+Full documentation:
+- `GhostCore_TPV_Terrestrial_Design.pdf`: TPV deployment model with desalination and greenhouse heating
+- `GhostCore_OnePage_Execution_Pitch.pdf`: Executive pitch, 1-page summary
+- `GhostCore_Molten_Lead_Weaponized_Drive.pdf`: Multi-use molten lead drive breakdown (cooling, thrust, EMP)
+- `GhostReactor_FullWhitepaper.pdf`: Complete reactor + propulsion whitepaper
+- `GhostReactor_Summary(executive brief).pdf`: Strategic overview
+- `GhostStarReactor_OptimalConditions_ODD.pdf`: Optimal operation modeling
+- `Autolog(standard).docx`: Autologging report output from simulations
+- `Delta comparisons(standard).docx`: Energy delta validation reports
+- `Ship reactor(standard).docx`: Configuration notes for embedded ship systems
+
+### 🎨 `/media/infographics/`  
+Visuals and diagrams:
+- `PhotonCoreSim_EnergyDistribution.png`
+- `LeadLoop_FlowRate_vs_WasteHeat.png`
+- `Output chart.png`
+- `Desalination_Greenhouse_Integration.png`
+- `Lead_Loop_Propulsive_EMP_Coil.png`
 
 ---
 
-## 🔮 Vision Statement
+## 🔬 Capabilities
 
-> Power, Water, Food — from one core.  
-> No moving parts. No emissions. Just light, heat, and lead.  
-> GhostCore is humanity's chance to engineer **hope into hardware**.
-
----
-
-## 📜 License
-
-MIT License — this suite is free to use, study, modify, and distribute. If you build something from it, let us know. Ghost doesn't forget.
+- Realistic TPV energy modeling for thermal radiation → electricity
+- Dual-loop reactor simulation with molten lead backup and MHD/EMP outputs
+- Delta-v tracking for photon and jet-assisted drives
+- Emergency SCRAM behavior and AI-based energy loop failovers
+- Output-ready JSON logs for version control + auto replay
 
 ---
 
-## ✉️ Contact
+## 🌍 Terrestrial & Off-World Use Cases
 
-Created by **@Shestus** (X.com)  
-Phone: `702-274-2245`  
-Drive link: [Google Drive – GhostCore R&D](https://drive.google.com/drive/folders/1ZJOjRHNfq5FBJnBEizGmVi18nIYI2ovu)
+GhostCore is designed for:
+- Grid-scale clean energy on Earth
+- Desert & coastal desalination
+- Arctic greenhouse heating
+- Deep-space travel (0.1–0.2c)
+- Off-grid civilizations or forward bases
+- EMP-shielded infrastructure defense
+- High Isp, low signature stealth vehicles
 
 ---
 
-**GhostCore: Reverse engineered from classified silence.**
+## 💡 Vision
+
+> **GhostCore: One core. Infinite reach.**  
+> Power cities, purify oceans, grow food, and fly stars — from light and lead.
+
+---
+
+## 🔐 License
+
+MIT License — research, remix, and release freely.  
+No patents. No gatekeeping. Just future.
+
+---
+
+## 📢 Credits
+
+**Created by:** `@Shestus` on X.com  
+_"One most like God"_  
+Contact: `702-274-2245`  
+[Google Drive – Research Archive](https://drive.google.com/drive/folders/1ZJOjRHNfq5FBJnBEizGmVi18nIYI2ovu)
+
+---
+
+For inquiries, simulations, or Ghost Operator collaboration, contact directly.
