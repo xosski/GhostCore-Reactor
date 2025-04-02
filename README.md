@@ -26,6 +26,8 @@ Full documentation:
 - `Autolog(standard).docx`: Autologging report output from simulations
 - `Delta comparisons(standard).docx`: Energy delta validation reports
 - `Ship reactor(standard).docx`: Configuration notes for embedded ship systems
+- `GhostCore_TacticalSystems.md`: Tactical armament tree and WraithSkin system flow
+- `WraithSkin_Cloaking_Utilization_Diagram_Scaled.pdf`: Deployment and EM suppression breakdown
 
 ### 🎨 `/media/infographics/`  
 Visuals and diagrams:
@@ -34,6 +36,7 @@ Visuals and diagrams:
 - `Output chart.png`
 - `Desalination_Greenhouse_Integration.png`
 - `Lead_Loop_Propulsive_EMP_Coil.png`
+- `WraithSkin_Cloak_Flowchart.jpg`
 
 ---
 
@@ -44,6 +47,7 @@ Visuals and diagrams:
 - Delta-v tracking for photon and jet-assisted drives
 - Emergency SCRAM behavior and AI-based energy loop failovers
 - Output-ready JSON logs for version control + auto replay
+- Tactical stealth simulation with WraithSkin adaptive electromagnetic cloaking
 
 ---
 
@@ -57,6 +61,7 @@ GhostCore is designed for:
 - Off-grid civilizations or forward bases
 - EMP-shielded infrastructure defense
 - High Isp, low signature stealth vehicles
+- Spectral stealth deployment with WraithSkin cloaking
 
 ---
 
@@ -84,3 +89,4 @@ Contact: `702-274-2245`
 ---
 
 For inquiries, simulations, or Ghost Operator collaboration, contact directly.
+
